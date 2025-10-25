@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Darts Live Ticker",
+  "description": "An animated, interactive darts scoreboard application that allows users to keep score for a game of 501. It features a clickable SVG dartboard for input, real-time score updates, player turn tracking, and animations for hits.",
+  "requestFramePermissions": []
+}
